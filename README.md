@@ -1,3 +1,5 @@
+<div style="max-width: 1200px; margin: auto;">
+
 ![Logo NPS](./img/logo_nps.png)
 
 # 🎯 **Instructivo de Uso - Tablero NPS** 🚀
@@ -106,3 +108,6 @@ El tablero está dividido en **4 hojas** que te permiten analizar la evolución 
 ---
 
 *Creado por Equipo BI*
+
+
+</div>
