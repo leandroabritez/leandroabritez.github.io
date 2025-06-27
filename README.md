@@ -22,7 +22,7 @@ El **NPS** es un indicador que mide la lealtad de los clientes a partir de una �
 
 <div style="background:#F0F8FF; padding:16px; border-left: 6px solid #4A90E2; margin:20px 0; font-size: 1.6em; line-height: 1.6em;">
 
-🔷 **SCORE NPS = % Promotores (9-10) − % Detractores (0-6)**  
+🔷 SCORE NPS = % Promotores (9-10) − % Detractores (0-6) 
 <br>  
 <span style="color:#666666; font-size: 0.8em;">✨ Los Pasivos (7-8) no se cuentan en el cálculo.</span>
 
