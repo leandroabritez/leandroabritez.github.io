@@ -14,7 +14,7 @@ Este documento tiene como objetivo explicar la <u>estructura</u> y <u>funcionali
 
 El **NPS** es un indicador que mide la lealtad de los clientes a partir de una única pregunta:
 
-> "¿Qué tan probable es que recomiendes nuestra empresa o servicio a un amigo o colega?" 💬
+> "¿Qué tan probable es que recomiendes nuestra empresa/servicio a un amigo o colega?" 💬
 
 ## 📊 ¿Cómo se calcula el NPS?
 
